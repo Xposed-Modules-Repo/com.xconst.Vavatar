@@ -46,8 +46,10 @@
 
 
 ## Vavatar设置入口
-![U9PEXUIWCDCA$Q0BCPVWWDF_tmb](./imgs/setting.jpg)
 
+
+![setting_capture](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.xconst.Vavatar/main/imgs/setting.jpg
+)
 
 
 
