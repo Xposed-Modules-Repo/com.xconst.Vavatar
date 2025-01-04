@@ -8,10 +8,10 @@
 
 
   [![Stars](https://img.shields.io/github/stars/Nooniebao/vavatar?label=stars)](https://github.com/Nooniebao/vavatar)
-  [![LSP%20Repo](https://img.shields.io/github/downloads/Xposed-Modules-Repo/icu.insomnia.vavatar/total?label=LSP%20Repo&labelColor=F48FB1)](https://github.com/Xposed-Modules-Repo/icu.insomnia.vavatar/releases)
+  [![LSP%20Repo](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.xconst.vavatar/total?label=LSP%20Repo&labelColor=F48FB1)](https://github.com/Xposed-Modules-Repo/com.xconst.vavatar/releases)
 </div>
 
-[![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/icu.insomnia.vavatar)](https://github.com/Xposed-Modules-Repo/icu.insomnia.vavatar/releases/latest)
+[![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.xconst.vavatar)](https://github.com/Xposed-Modules-Repo/com.xconst.vavatar/releases/latest)
 
 </div>
 
