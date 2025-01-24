@@ -15,13 +15,12 @@
 
 </div>
 
+# 如果你从lspsed_manager的仓库看到此页面，请手动访问此项目的release页面，获得最新适配，谢谢。
+
+[https://github.com/NoonieBao/VAvatar/releases](https://github.com/NoonieBao/VAvatar/releases)
 
 ## 适用版本
-8.0.47、8.0.48、8.0.49、~~8.0.50~~、8.0.51、8.0.53、8.0.54、8.0.55
-
-不支持`8.0.50` ！
-
-8.0.46或许有效，但由于我无法登陆旧版本，未能进行验证。
+8.0.47、8.0.48、8.0.49、~~8.0.50~~、8.0.51、8.0.53、8.0.54、8.0.55、8.0.56
 
 
 > 强调：vx每次发布都会混淆，如果你的vx版本号正确，Vavatar却不能工作，请查看[额外说明](https://github.com/NoonieBao/VAvatar?tab=readme-ov-file#%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E)
